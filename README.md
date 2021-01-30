@@ -1,1 +1,1 @@
-# MatPlotLib---Challenge
+# MatPlotLib-Challenge
